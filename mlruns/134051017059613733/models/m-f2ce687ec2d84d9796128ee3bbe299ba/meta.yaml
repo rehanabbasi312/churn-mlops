@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/DOTLESS%20MACHINE%2001/Desktop/AEYRON/churn-mlops/mlruns/134051017059613733/models/m-f2ce687ec2d84d9796128ee3bbe299ba/artifacts
+creation_timestamp: 1749913847697
+experiment_id: '134051017059613733'
+last_updated_timestamp: 1749913853287
+model_id: m-f2ce687ec2d84d9796128ee3bbe299ba
+model_type: null
+name: churn_model
+source_run_id: c975c0e7064842299858e11e2dceefee
+status: 2
+status_message: null
