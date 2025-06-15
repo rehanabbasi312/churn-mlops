@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/DOTLESS%20MACHINE%2001/Desktop/AEYRON/churn-mlops/mlruns/134051017059613733/models/m-2011433b1b484a309c01aeb81f4a9de1/artifacts
+creation_timestamp: 1749992272650
+experiment_id: '134051017059613733'
+last_updated_timestamp: 1749992276108
+model_id: m-2011433b1b484a309c01aeb81f4a9de1
+model_type: null
+name: model
+source_run_id: 44b76d6b4be3495e840752502563cdb9
+status: 2
+status_message: null

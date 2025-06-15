@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/DOTLESS%20MACHINE%2001/Desktop/AEYRON/churn-mlops/mlruns/134051017059613733/models/m-93123ff4b3e54f1daad38656c7ea8281/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.0
+model_id: m-93123ff4b3e54f1daad38656c7ea8281
+model_size_bytes: 34249586
+model_uuid: m-93123ff4b3e54f1daad38656c7ea8281
+prompts: null
+run_id: 5b3fa03328a64c6f89c3c6e3547800af
+utc_time_created: '2025-06-15 11:36:23.193177'

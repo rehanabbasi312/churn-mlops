@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DOTLESS%20MACHINE%2001/Desktop/AEYRON/churn-mlops/mlruns/134051017059613733/fd662116f5bc46d4972da0a99e25e854/artifacts
+end_time: 1749990267888
+entry_point_name: ''
+experiment_id: '134051017059613733'
+lifecycle_stage: active
+run_id: fd662116f5bc46d4972da0a99e25e854
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749990212656
+status: 3
+tags: []
+user_id: DOTLESS MACHINE 01
